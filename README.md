@@ -63,7 +63,7 @@ Purpose:
 ![IP Settings](staticip.PNG)
 ![IP Config Output](ipaddress.PNG)
 ![IP Config Output](ipconfigall.PNG)
-![Ping Test](Ping.PNG)
+![Ping Test](ping.PNG)
 
 ---
 
