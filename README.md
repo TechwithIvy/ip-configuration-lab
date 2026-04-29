@@ -69,7 +69,8 @@ Add your screenshots here:
 Example:
 
 ![IP Settings](staticip.PNG)
-![IP Config Output](ipaddress.PNG)(ipaddressall.PNG)
+![IP Config Output](ipaddress.PNG)
+![IP Config Output](ipaddressall.PNG)
 ![Ping Test](screenshots/ping-test.png)
 
 ---
