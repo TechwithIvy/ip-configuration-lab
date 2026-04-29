@@ -60,18 +60,10 @@ Purpose:
 
 ## Screenshots
 
-Add your screenshots here:
-
-- IP configuration settings
-- `ipconfig` output
-- Successful ping results
-
-Example:
-
 ![IP Settings](staticip.PNG)
 ![IP Config Output](ipaddress.PNG)
 ![IP Config Output](ipconfigall.PNG)
-![Ping Test](screenshots/ping-test.png)
+![Ping Test](Ping.PNG)
 
 ---
 
