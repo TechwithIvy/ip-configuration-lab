@@ -83,7 +83,7 @@ Purpose:
 - Check IP address is within correct network range
 
 ### DNS Not Working
-- Test with `ping 8.8.8.8`
+- Test with `ping 8.8.8.8`(this is a Google Public DNS server).
 - If successful, issue is DNS-related
 - Update DNS server settings
 
